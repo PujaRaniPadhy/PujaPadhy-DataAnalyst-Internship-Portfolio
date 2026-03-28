@@ -22,6 +22,19 @@ Performed statistical testing using Python.
 ### Task 5 — Portfolio Finalization
 Combined all tasks into a professional GitHub portfolio.
 
+## Portfolio Website
+
+I created a personal portfolio website using GitHub Pages to showcase my internship projects and presentation.
+
+Website Link:
+https://pujaranipadhy.github.io/PujaPadhy-DataAnalyst-Internship-Portfolio/
+
+The website includes:
+- Internship overview
+- Project tasks
+- Tools and technologies used
+- Project presentation
+
 ## Tools Used
 Python  
 Pandas  
